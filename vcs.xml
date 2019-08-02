@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/secretpjh/ns-chef.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/secretpjh/automation_cisco_by_python.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\code\ns-chef" />
+    <option name="cloneParentDir" value="C:\code\automation_cisco_by_python" />
   </component>
 </application>
